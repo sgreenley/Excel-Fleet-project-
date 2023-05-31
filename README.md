@@ -2,6 +2,8 @@
 
 The following scenario of a recently hired Junior Data Analyst in a local government office, who has been tasked with importing some data from another department which relates to inventory information about their fleet of vehicles. Images are used to visulize progress. 
 
+Final Excel Workbook - https://github.com/sgreenley/Excel-Fleet-project-/blob/main/assets/Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.xlsx
+
 ## Step 1 Data Cleaning
 The data is in comma-separated value (CSV) format and the data also needs cleaning up before you can start to run any kind of analysis on it.
 
