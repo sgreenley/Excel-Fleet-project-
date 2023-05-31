@@ -40,13 +40,14 @@ Sort By Value setting on the pivot table
  
 2. Class field below the Department field so that the different vehicle types appear under each department with their respective counts.
 Collapse all fields except the top one - Transportation
-<image src="https://github.com/sgreenley/Excel-Fleet-project-/blob/main/assets/fleet%20any%202.png" width="600" height="500">  
+<image src="https://github.com/sgreenley/Excel-Fleet-project-/blob/main/assets/fleet%20any%203.png" width="600" height="500">  
  
 3. Add the Equipment Class field above the Department field so that the different vehicle types appear first, with the different departments listed underneath each vehicle
 Collapse all fields except the top one - CUV
   
-<image src="https://github.com/sgreenley/Excel-Fleet-project-/blob/main/assets/fleet%20any%202.png" width="600" height="500">  
-  
- ## Things Learned 
-  
+<image src="https://github.com/sgreenley/Excel-Fleet-project-/blob/main/assets/fleet%20any%204.png" width="600" height="500">  
 
+ 
+## Things Learned 
+  
+This was my first project using excel to clean data, and i found very informative with lots of avalible tools. Using a defined process will allow me to create clean data quicker and that has less chance of errors. 
